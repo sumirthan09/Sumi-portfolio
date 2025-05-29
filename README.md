@@ -1,2 +1,0 @@
-# Sumi-portfolio
-webproject description
